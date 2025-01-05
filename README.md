@@ -182,6 +182,8 @@
 <img src="https://img.shields.io/badge/Emotion-cb0096?style=for-the-badge&logo=react&logoColor=white">
 </p>
 
+## 📄 API 명세서 ERD 설계도
+### 🛰 API 명세서
 
 ## 📋 메뉴 구조도
 
