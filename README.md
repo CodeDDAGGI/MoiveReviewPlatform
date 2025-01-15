@@ -28,6 +28,8 @@
 
 ## ✔ 컨벤션
 
+## 🎨 피그마
+
 <h3>
 <a href="">📍 커밋 컨벤션</a>
 </h3>
@@ -190,3 +192,6 @@
 ## 🖥 화면 구현
 
 ## 💡 느낀점
+
+## 🎨 피그마
+https://www.figma.com/design/jJeimkVaCuFdljl6Mdf17Q/CineRate?node-id=0-1&p=f&t=gAczjhHl5MZpqcSJ-0
